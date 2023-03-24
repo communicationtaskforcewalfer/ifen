@@ -165,7 +165,7 @@
 .about_area .shape {
   position: absolute;
   right: 0;
-  top: -50px;
+  top: -100px;
   z-index: 0;
 }
 
