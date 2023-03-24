@@ -122,6 +122,8 @@
   line-height: 80px;
   color: #fff;
   margin-bottom: 66px;
+  position: relative;
+  top: 50px;
 }
 
 @media (max-width: 767px) {
