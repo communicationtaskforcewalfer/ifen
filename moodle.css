@@ -456,6 +456,7 @@
 
 .event_area .single_speaker img {
   float: left;
+  max-widht: 250px;
 }
 
 @media (max-width: 767px) {
