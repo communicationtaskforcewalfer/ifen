@@ -5,7 +5,7 @@
   border: 0;
 }
 
-.sectionname {
+.sectionname, #page-header {
  display: none;
 }
 
